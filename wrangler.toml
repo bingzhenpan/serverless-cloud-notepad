@@ -1,8 +1,0 @@
-name = "cloud-notepad"
-main = "src/index.js"
-compatibility_date = "2022-05-13"
-
-kv_namespaces = [
-  { binding = "NOTES", id = "4c7392499bb24bf584d6e9d80edcc6ba" },
-  { binding = "SHARE", id = "fda5e1b9804841f2a3df523328238145" }
-]
